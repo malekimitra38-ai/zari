@@ -1,0 +1,8 @@
+name = "zari"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "240e9fa0732042d49502604a0ac9162b" }
+]
